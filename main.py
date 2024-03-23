@@ -1,4 +1,4 @@
-# Group Project 2 (4A)
+# discretization method with gaussian elimination
 
 from scipy.linalg import lu, solve
 from scipy.sparse import spdiags
